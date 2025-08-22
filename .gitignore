@@ -1,0 +1,11 @@
+# Virtual environment
+venv/
+
+# PyTorch checkpoint/model files
+*.pth
+
+# Dataset directory
+Driver Drowsiness Dataset (DDD)/
+
+# Environment variables file
+.env
